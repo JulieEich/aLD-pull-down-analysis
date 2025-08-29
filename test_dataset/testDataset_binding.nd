@@ -1,0 +1,16 @@
+"NDInfoFile", Version 2.0
+"Description", Multi Dimensions Experiment
+"StartTime1", 20250206 13:39:59
+"DoTimelapse", FALSE
+"NTimePoints", 1
+"DoStage", FALSE
+"DoWave", TRUE
+"NWavelengths", 2
+"WaveName1", "SPI 491 GFP"
+"WaveDoZ1", TRUE
+"WaveName2", "TRANS"
+"WaveDoZ2", TRUE
+"DoZSeries", FALSE
+"WaveInFileName", TRUE
+"NEvents", 0
+"EndFile"
